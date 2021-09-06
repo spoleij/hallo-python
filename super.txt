@@ -1,0 +1,5 @@
+Spotify is de nr 1 muziek streaming applicatie ter wereld. 
+Zelf gebruik ik het ook dagelijks. 
+Het feit dat deze applicatie met python is gecodeerd is best wel cool
+
+https://www.spotify.com/nl/
